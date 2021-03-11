@@ -3,13 +3,10 @@
 This test is designed to let us get to know you more as a developer and give you a hint about some of the toolsets we use in our daily work. 
 
 ### ⚙️  The Task
-We want to get a clear overview of the different rockets that SpaceX has available.
-
-We want to be able to sort them by weight. 
-
-It’s also important for us to know if there are any upcoming launches planned, so we don't miss the next one. 
-
-We want to use: https://api.spacex.land/graphql/
+- We want to get a clear overview of the different rockets that SpaceX has available.
+- We want to be able to sort them by weight. 
+- It’s also important for us to know if there are any upcoming launches planned, so we don't miss the next one. 
+- We want to use: https://api.spacex.land/graphql/
 
  
  
@@ -19,13 +16,10 @@ We had a discussion about whether or not we could supply the SpaceX launchpads w
 
 Now that we are in production it would also be nice to:
 
-Setup a good test-suit for your application
-
-Union and schema-type generation
-
-A clean visual design
-
-An idea of how we deploy this new app
+- Setup a good test-suit for your application
+- Union and schema-type generation
+- A clean visual design
+- An idea of how we deploy this new app
 
 ### 🤖  Technical Requirements
 Please use these tools and frameworks as we like to use them in our work.
