@@ -1,5 +1,5 @@
 
-#🌈 📱 🖥   Welcome to the Digitalization Frontend code test 
+# 🌈 📱 🖥   Welcome to the Digitalization Frontend code test 
 This test is designed to let us get to know you more as a developer and give you a hint about some of the toolsets we use in our daily work. 
 
 ### ⚙️  The task
