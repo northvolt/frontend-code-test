@@ -3,21 +3,21 @@
 This test is designed to let us get to know you more as a developer and give you a hint about some of the toolsets we use in our daily work. 
 
 ### ⚙️  The task
-- We want to get a clear overview of the different rockets that SpaceX has available.
-- We want to be able to sort them by weight. 
-- It’s also important for us to know if there are any upcoming launches planned, so we don't miss the next one. 
+1. We want to get a clear overview of the different rockets that SpaceX has available.
+2. We want to be able to sort them by weight. 
+3. It’s also important for us to know about the past 5 launches, feel free to display any relevant information about the launch.
 
 We want to use: https://api.spacex.land/graphql/
 
 ### 🔋⚡️ Bonus
-We had a discussion about whether or not we could supply the SpaceX launchpads with our own batteries. In order to do that we would like to know: how far away they are from our factory Ett in Skellefteå.  A UI that displays their location and a description would help our planning team a lot. 
+We had a discussion about whether or not we could supply the SpaceX launchpads with our own batteries. In order to do that we would like to know: how far away they are from our factory Ett in Skellefteå. A UI that displays their location and a description would help our planning team a lot. 
 
-**Now that we are in production it would also be nice to:**
+**Now that we are done with the main task, it would also be nice to:**
 
 - Setup a good test-suit for your application
 - Union and schema-type generation
 - Create a clean visual design
-- Have an idea of how we deploy this new app
+- Have an idea of how we can deploy this new application
 
 ### 🤖  Technical requirements
 Please use these tools and frameworks as we like to use them in our work:
