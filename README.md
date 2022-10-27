@@ -14,7 +14,7 @@ We had a discussion about whether or not we could supply the SpaceX launchpads w
 
 **Now that we are done with the main task, it would also be nice to:**
 
-- Setup a good test-suit for your application
+- Setup a good test-suite for your application
 - Union and schema-type generation
 - Create a clean visual design
 - Have an idea of how we can deploy this new application
