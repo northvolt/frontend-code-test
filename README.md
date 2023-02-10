@@ -7,7 +7,7 @@ This test is designed to let us get to know you more as a developer and give you
 2. We want to be able to sort them by weight. 
 3. It’s also important for us to know about the past 5 launches, feel free to display any relevant information about the launch.
 
-We want to use: https://api.spacex.land/graphql/
+We want to use: [SpaceX-pxxbxen](https://studio.apollographql.com/public/SpaceX-pxxbxen/explorer?variant=current)
 
 ### 🔋⚡️ Bonus
 We had a discussion about whether or not we could supply the SpaceX launchpads with our own batteries. In order to do that we would like to know: how far away they are from our factory Ett in Skellefteå. A UI that displays their location and a description would help our planning team a lot. 
